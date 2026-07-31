@@ -1,0 +1,22 @@
+# Build artifacts
+installer_output/
+*.exe
+
+# Temp/dev files
+make_icon.ps1
+test_loopback.ps1
+package.json
+server.js
+node_modules/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
